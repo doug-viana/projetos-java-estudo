@@ -1,3 +1,4 @@
+// Melhoria solicitada pelo chefe: Adicionando log de auditoria.
 public class CalculadoraFinanceira {
 
     public static double simularInvestimento(double inicial, double mensal,
