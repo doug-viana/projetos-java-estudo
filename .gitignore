@@ -1,0 +1,24 @@
+# --- IntelliJ / IDEs ---
+.idea/
+*.iml
+out/
+gen/
+.settings/
+.classpath
+.project
+
+# --- Java / Compilação ---
+*.class
+*.log
+*.jar
+*.war
+
+# --- Maven / Gradle (Futuro) ---
+target/
+build/
+.gradle/
+
+# --- Sistema Operacional ---
+.DS_Store
+Thumbs.db
+desktop.ini
